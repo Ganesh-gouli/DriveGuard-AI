@@ -1,0 +1,4 @@
+Seatbelt 1,DETECTED (WORN)
+Seatbelt 2,DETECTED (WORN)
+Seatbelt 3,DETECTED (WORN)
+Seatbelt 4,DETECTED (WORN)

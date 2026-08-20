@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dashboard - Driver AI</title>
+  <link rel="stylesheet" href="/static/style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+
+<body>
+  <div class="dashboard-container">
+    <!-- Sidebar -->
+    <aside class="sidebar">
+      <div class="brand">
+        <i class="fas fa-eye"></i> Driver AI
+      </div>
+
+      <ul class="nav-links">
+        <li><a href="#" class="nav-link active" onclick="switchView('overview')"><i class="fas fa-th-large"></i>
+            Overview</a></li>
+        <li><a href="#" class="nav-link" onclick="switchView('alerts')"><i class="fas fa-bell"></i> Alerts</a></li>
+        <li><a href="#" class="nav-link" onclick="switchView('driver')"><i class="fas fa-user-circle"></i> Driver
+            Data</a></li>
+        <li><a href="#" class="nav-link" onclick="switchView('trips')"><i class="fas fa-history"></i> Trip History</a>
+        </li>
+        <li><a href="#" class="nav-link" onclick="switchView('settings')"><i class="fas fa-cog"></i> Settings</a></li>
+        <li><a href="#" class="nav-link logout" onclick="logout()"><i class="fas fa-sign-out-alt"></i> Logout</a></li>
+      </ul>
+    </aside>
+
+    <!-- Main Content -->
+    <main class="main-content">
+      <!-- Top Header -->
+      <header class="top-header">
+        <div class="search-box">
+          <i class="fas fa-search"></i>
+          <input type="text" placeholder="Search data...">
+        </div>
+
+        <div class="user-menu">
+          <div class="icon-btn">
+            <i class="fas fa-bell"></i>
+          </div>
+          <div class="profile">
+            <div class="avatar" id="userAvatar">D</div>
+            <div class="user-info">
+              <h4 id="userName">Driver</h4>
+              <p id="userCar">Car No.</p>
+            </div>
+            <h2 style="font-size: 20px;">All Alerts History</h2>
+          </div>
+          <table>
+            <thead>
+              <tr>
+                <th>Time</th>
+                <th>Status</th>
+                <th>Severity</th>
+                <th>Details</th>
+              </tr>
+            </thead>
+            <tbody id="allAlertsBody">
+              <tr>
+                <td colspan="4" style="text-align:center; padding:20px; color: var(--text-muted);">Loading...</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+  </div>
+
+  <!-- 3. Driver Data View -->
+  <div id="view-driver" class="view-section" style="display: none;">
+    <div class="glass-panel" style="padding: 40px; max-width: 600px; margin: 40px auto;">
+      <div style="text-align: center; margin-bottom: 40px;">
+        <div class="avatar" style="width: 100px; height: 100px; font-size: 40px; margin: 0 auto 20px;">D</div>
+        <h2 id="profileName" style="margin-bottom: 8px;">Driver Name</h2>
+        <p style="color: var(--text-muted);">Professional Driver</p>
+      </div>
+
+      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
+        <div
+          style="background: rgba(255,255,255,0.03); padding: 20px; border-radius: 12px; border: 1px solid var(--glass-border);">
+          <label style="color: var(--text-muted); font-size: 12px; display: block; margin-bottom: 8px;">Car
+            Number</label>
+          <div style="font-size: 18px; font-weight: 600;" id="profileCar">XX-00-XX-0000</div>
+        </div>
+        <div
+          style="background: rgba(255,255,255,0.03); padding: 20px; border-radius: 12px; border: 1px solid var(--glass-border);">
+          <label style="color: var(--text-muted); font-size: 12px; display: block; margin-bottom: 8px;">License
+            Status</label>
+          <div style="font-size: 18px; font-weight: 600; color: var(--success);">Active</div>
+        </div>
+        <div
+          style="background: rgba(255,255,255,0.03); padding: 20px; border-radius: 12px; border: 1px solid var(--glass-border);">
+          <label style="color: var(--text-muted); font-size: 12px; display: block; margin-bottom: 8px;">Total
+            Trips</label>
+          <div style="font-size: 18px; font-weight: 600;">1,248</div>
+        </div>
+        <div
+          style="background: rgba(255,255,255,0.03); padding: 20px; border-radius: 12px; border: 1px solid var(--glass-border);">
+          <label style="color: var(--text-muted); font-size: 12px; display: block; margin-bottom: 8px;">Safety
+            Score</label>
+          <div style="font-size: 18px; font-weight: 600; color: var(--primary);">98/100</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 4. Trip History View -->
+  <div id="view-trips" class="view-section" style="display: none;">
+    <div class="glass-panel table-card">
+      <div class="table-header">
+        <h2 style="font-size: 20px;">Trip History</h2>
+      </div>
+      <table>
+        <thead>
+          <tr>
+            <th>Date</th>
+            <th>Route</th>
+            <th>Duration</th>
+            <th>Alerts</th>
+            <th>Status</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>2025-11-27</td>
+            <td>Bangalore -> Mysore</td>
+            <td>3h 15m</td>
+            <td>2</td>
+            <td><span style="color: var(--success);">Completed</span></td>
+          </tr>
+          <tr>
+            <td>2025-11-26</td>
+            <td>Mysore -> Bangalore</td>
+            <td>3h 30m</td>
+            <td>0</td>
+            <td><span style="color: var(--success);">Completed</span></td>
+          </tr>
+          <tr>
+            <td>2025-11-25</td>
+            <td>City Tour</td>
+            <td>1h 45m</td>
+            <td>1</td>
+            <td><span style="color: var(--success);">Completed</span></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <!-- 5. Settings View -->
+  <div id="view-settings" class="view-section" style="display: none;">
+    <div class="glass-panel" style="padding: 30px; max-width: 600px;">
+      <h2 style="margin-bottom: 25px;">System Settings</h2>
+
+      <div style="margin-bottom: 24px;">
+        <label style="display: block; margin-bottom: 12px; color: var(--text-muted);">Alert Sensitivity</label>
+        <input type="range" min="1" max="100" value="75" style="width: 100%; accent-color: var(--primary);">
+      </div>
+
+      <div style="margin-bottom: 24px;">
+        <label style="display: block; margin-bottom: 12px; color: var(--text-muted);">Alarm Volume</label>
+        <input type="range" min="1" max="100" value="100" style="width: 100%; accent-color: var(--primary);">
+      </div>
+
+      <div style="margin-bottom: 20px; display: flex; align-items: center; gap: 12px;">
+        <input type="checkbox" checked id="notif" style="accent-color: var(--primary); width: 18px; height: 18px;">
+        <label for="notif">Enable Desktop Notifications</label>
+      </div>
+
+      <div style="margin-bottom: 30px; display: flex; align-items: center; gap: 12px;">
+        <input type="checkbox" checked id="sound" style="accent-color: var(--primary); width: 18px; height: 18px;">
+        <label for="sound">Enable Sound Alerts</label>
+      </div>
+
+      <button class="btn-primary" style="width: auto; padding: 12px 32px;">Save Changes</button>
+    </div>
+  </div>
+  </main>
+  </div>
+
+  <script src="/static/script.js"></script>
+  <script>
+    // Init Dashboard on load
+    document.addEventListener('DOMContentLoaded', initDashboard);
+  </script>
+</body>
+
+</html>

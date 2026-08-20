@@ -1,0 +1,1814 @@
+[
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2026-02-11 22:24:11",
+    "extra": {
+      "reason": "eyes_closed (18) ear=0.18",
+      "ear": 0.175,
+      "mar": 0.0
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Seatbelt",
+    "timestamp": "2026-02-11 22:24:00",
+    "extra": {
+      "reason": "seatbelt_not_worn"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2026-02-11 22:23:43",
+    "extra": {
+      "reason": "eyes_closed (18) ear=0.19",
+      "ear": 0.194,
+      "mar": 0.023
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Seatbelt",
+    "timestamp": "2025-11-29 11:36:58",
+    "extra": {
+      "reason": "seatbelt_not_worn"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-29 11:35:47",
+    "extra": {
+      "reason": "eyes_closed (18) ear=0.11",
+      "ear": 0.105,
+      "mar": 0.022
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-29 11:35:35",
+    "extra": {
+      "reason": "eyes_closed (18) ear=0.12",
+      "ear": 0.116,
+      "mar": 0.0
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-29 11:35:20",
+    "extra": {
+      "reason": "head_nodding (20) pitch=48.77",
+      "ear": 0.292,
+      "mar": 0.038
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-29 11:35:10",
+    "extra": {
+      "reason": "eyes_closed (18) ear=0.14",
+      "ear": 0.141,
+      "mar": 0.0
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-29 11:34:58",
+    "extra": {
+      "reason": "eyes_closed (51) ear=0.10",
+      "ear": 0.102,
+      "mar": 0.0
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-29 11:34:53",
+    "extra": {
+      "reason": "eyes_closed (32) ear=0.18",
+      "ear": 0.18,
+      "mar": 0.046
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-29 11:34:48",
+    "extra": {
+      "reason": "eyes_closed (18) ear=0.11",
+      "ear": 0.109,
+      "mar": 0.25
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Seatbelt",
+    "timestamp": "2025-11-29 11:33:52",
+    "extra": {
+      "reason": "seatbelt_not_worn"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-29 11:30:58",
+    "extra": {
+      "reason": "head_nodding (20) pitch=31.52",
+      "ear": 0.305,
+      "mar": 0.361
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Seatbelt",
+    "timestamp": "2025-11-29 11:30:52",
+    "extra": {
+      "reason": "seatbelt_not_worn"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Phone Usage",
+    "timestamp": "2025-11-29 11:30:47",
+    "extra": {
+      "reason": "phone_near_face_or_hand"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Phone Usage",
+    "timestamp": "2025-11-29 11:27:43",
+    "extra": {
+      "reason": "phone_near_face_or_hand"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Phone Usage",
+    "timestamp": "2025-11-29 11:27:32",
+    "extra": {
+      "reason": "phone_near_face_or_hand"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Seatbelt",
+    "timestamp": "2025-11-29 11:25:43",
+    "extra": {
+      "reason": "seatbelt_not_worn"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Seatbelt",
+    "timestamp": "2025-11-29 11:22:43",
+    "extra": {
+      "reason": "seatbelt_not_worn"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Seatbelt",
+    "timestamp": "2025-11-29 11:16:29",
+    "extra": {
+      "reason": "seatbelt_not_worn"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-29 02:41:39",
+    "extra": {
+      "reason": "eyes_closed (18) ear=0.16",
+      "ear": 0.164,
+      "mar": 0.0
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-29 02:41:33",
+    "extra": {
+      "reason": "head_nodding (74) pitch=29.63",
+      "ear": 0.263,
+      "mar": 0.0
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-29 02:41:28",
+    "extra": {
+      "reason": "head_nodding (48) pitch=34.27",
+      "ear": 0.249,
+      "mar": 0.0
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-29 02:41:23",
+    "extra": {
+      "reason": "head_nodding (20) pitch=36.12",
+      "ear": 0.268,
+      "mar": 0.781
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-29 02:41:02",
+    "extra": {
+      "reason": "eyes_closed (18) ear=0.19",
+      "ear": 0.195,
+      "mar": 0.0
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Seatbelt",
+    "timestamp": "2025-11-29 02:40:41",
+    "extra": {
+      "reason": "seatbelt_not_worn"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 22:17:00",
+    "extra": {
+      "reason": "eyes_closed (18) ear=0.18",
+      "ear": 0.181,
+      "mar": 0.024
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 22:16:34",
+    "extra": {
+      "reason": "eyes_closed (18) ear=0.12",
+      "ear": 0.124,
+      "mar": 0.0
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 22:16:17",
+    "extra": {
+      "reason": "head_nodding (20) pitch=32.74",
+      "ear": 0.201,
+      "mar": 0.025
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 22:16:09",
+    "extra": {
+      "reason": "head_nodding (20) pitch=45.95",
+      "ear": 0.314,
+      "mar": 0.029
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 22:15:19",
+    "extra": {
+      "reason": "eyes_closed (18) ear=0.17",
+      "ear": 0.175,
+      "mar": 0.026
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Phone Usage",
+    "timestamp": "2025-11-28 22:15:07",
+    "extra": {
+      "reason": "phone_near_face_or_hand"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 22:14:55",
+    "extra": {
+      "reason": "eyes_closed (18) ear=0.13",
+      "ear": 0.134,
+      "mar": 0.104
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 22:14:50",
+    "extra": {
+      "reason": "eyes_closed (18) ear=0.18",
+      "ear": 0.184,
+      "mar": 0.169
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Phone Usage",
+    "timestamp": "2025-11-28 22:14:45",
+    "extra": {
+      "reason": "phone_near_face_or_hand"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 21:48:43",
+    "extra": {
+      "reason": "eyes_closed (44) ear=0.06",
+      "ear": 0.064,
+      "mar": 1.173
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 21:48:38",
+    "extra": {
+      "reason": "eyes_closed (18) ear=0.22",
+      "ear": 0.215,
+      "mar": 0.725
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 21:48:17",
+    "extra": {
+      "reason": "eyes_closed (18) ear=0.17",
+      "ear": 0.172,
+      "mar": 0.0
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 21:34:44",
+    "extra": {
+      "reason": "eyes_closed (18) ear=0.17",
+      "ear": 0.166,
+      "mar": 0.0
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 21:33:25",
+    "extra": {
+      "reason": "eyes_closed (18) ear=0.21",
+      "ear": 0.213,
+      "mar": 0.0
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 21:33:17",
+    "extra": {
+      "reason": "eyes_closed (50) ear=0.22",
+      "ear": 0.217,
+      "mar": 0.0
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 21:33:12",
+    "extra": {
+      "reason": "eyes_closed (24) ear=0.19",
+      "ear": 0.185,
+      "mar": 0.703
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 21:33:07",
+    "extra": {
+      "reason": "head_nodding (20) pitch=25.31",
+      "ear": 0.192,
+      "mar": 0.0
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 21:32:44",
+    "extra": {
+      "reason": "yawning (15) mar=0.97",
+      "ear": 0.191,
+      "mar": 0.972
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 21:32:28",
+    "extra": {
+      "reason": "head_nodding (20) pitch=31.39",
+      "ear": 0.285,
+      "mar": 0.0
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Seatbelt",
+    "timestamp": "2025-11-28 21:31:40",
+    "extra": {
+      "reason": "seatbelt_not_worn"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 21:31:28",
+    "extra": {
+      "reason": "eyes_closed (44) ear=0.22",
+      "ear": 0.217,
+      "mar": 0.03
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 21:31:23",
+    "extra": {
+      "reason": "eyes_closed (18) ear=0.09",
+      "ear": 0.093,
+      "mar": 0.0
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 21:30:52",
+    "extra": {
+      "reason": "eyes_closed (18) ear=0.09",
+      "ear": 0.09,
+      "mar": 0.0
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 21:30:43",
+    "extra": {
+      "reason": "eyes_closed (18) ear=0.14",
+      "ear": 0.138,
+      "mar": 0.0
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 21:29:46",
+    "extra": {
+      "reason": "eyes_closed (18) ear=0.10",
+      "ear": 0.099,
+      "mar": 0.0
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 21:29:03",
+    "extra": {
+      "reason": "eyes_closed (18) ear=0.11",
+      "ear": 0.108,
+      "mar": 0.0
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 21:28:57",
+    "extra": {
+      "reason": "eyes_closed (18) ear=0.14",
+      "ear": 0.137,
+      "mar": 0.0
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 21:28:47",
+    "extra": {
+      "reason": "eyes_closed (18) ear=0.09",
+      "ear": 0.095,
+      "mar": 0.0
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Seatbelt",
+    "timestamp": "2025-11-28 21:28:39",
+    "extra": {
+      "reason": "seatbelt_not_worn"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 21:27:40",
+    "extra": {
+      "reason": "head_nodding (20) pitch=26.30",
+      "ear": 0.266,
+      "mar": 0.0
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Seatbelt",
+    "timestamp": "2025-11-28 21:20:27",
+    "extra": {
+      "reason": "seatbelt_not_worn"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 21:10:17",
+    "extra": {
+      "reason": "eyes_closed (18) ear=0.23",
+      "ear": 0.227,
+      "mar": 0.0
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 21:09:31",
+    "extra": {
+      "reason": "head_nodding (20) pitch=27.75",
+      "ear": 0.257,
+      "mar": 0.034
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 21:07:46",
+    "extra": {
+      "reason": "eyes_closed (18) ear=0.10",
+      "ear": 0.101,
+      "mar": 0.0
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Seatbelt",
+    "timestamp": "2025-11-28 21:07:21",
+    "extra": {
+      "reason": "seatbelt_not_worn"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 20:50:09",
+    "extra": {
+      "reason": "yawning (15) mar=0.90",
+      "ear": 0.207,
+      "mar": 0.903
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Seatbelt",
+    "timestamp": "2025-11-28 20:48:48",
+    "extra": {
+      "reason": "seatbelt_not_worn"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Seatbelt",
+    "timestamp": "2025-11-28 19:53:55",
+    "extra": {
+      "reason": "seatbelt_not_worn"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 19:53:35",
+    "extra": {
+      "reason": "yawning (15) mar=0.77",
+      "ear": 0.204,
+      "mar": 0.767
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 19:52:37",
+    "extra": {
+      "reason": "yawning (15) mar=0.84",
+      "ear": 0.246,
+      "mar": 0.843
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Seatbelt",
+    "timestamp": "2025-11-28 19:46:40",
+    "extra": {
+      "reason": "seatbelt_not_worn"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Seatbelt",
+    "timestamp": "2025-11-28 19:44:58",
+    "extra": {
+      "reason": "seatbelt_not_worn"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 19:34:08",
+    "extra": {
+      "reason": "eyes_closed (18) ear=0.20",
+      "ear": 0.203,
+      "mar": 0.0
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 19:34:00",
+    "extra": {
+      "reason": "eyes_closed (18) ear=0.18",
+      "ear": 0.178,
+      "mar": 0.0
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 19:33:47",
+    "extra": {
+      "reason": "yawning (15) mar=0.80",
+      "ear": 0.199,
+      "mar": 0.799
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Seatbelt",
+    "timestamp": "2025-11-28 19:33:31",
+    "extra": {
+      "reason": "seatbelt_not_worn"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 19:26:17",
+    "extra": {
+      "reason": "eyes_closed (18) ear=0.23",
+      "ear": 0.226,
+      "mar": 0.029
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Seatbelt",
+    "timestamp": "2025-11-28 19:25:59",
+    "extra": {
+      "reason": "seatbelt_not_worn"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 19:01:55",
+    "extra": {
+      "reason": "eyes_closed (18) ear=0.20",
+      "ear": 0.197,
+      "mar": 0.0
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 19:01:50",
+    "extra": {
+      "reason": "eyes_closed (18) ear=0.21",
+      "ear": 0.21,
+      "mar": 0.445
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 18:53:58",
+    "extra": {
+      "reason": "eyes_closed (18) ear=0.22",
+      "ear": 0.224,
+      "mar": 0.0
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 18:45:49",
+    "extra": {
+      "reason": "eyes_closed (18) ear=0.15",
+      "ear": 0.154,
+      "mar": 0.894
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 18:45:43",
+    "extra": {
+      "reason": "eyes_closed (18) ear=0.19",
+      "ear": 0.191,
+      "mar": 1.043
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 18:27:25",
+    "extra": {
+      "reason": "eyes_closed (18) ear=0.18",
+      "ear": 0.183,
+      "mar": 0.0
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 18:27:19",
+    "extra": {
+      "reason": "eyes_closed (18) ear=0.16",
+      "ear": 0.156,
+      "mar": 0.0
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 18:27:11",
+    "extra": {
+      "reason": "eyes_closed (18) ear=0.20",
+      "ear": 0.199,
+      "mar": 0.03
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 18:27:02",
+    "extra": {
+      "reason": "yawning (15) mar=0.90",
+      "ear": 0.178,
+      "mar": 0.903
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 18:22:38",
+    "extra": {
+      "reason": "eyes_closed (18) ear=0.14",
+      "ear": 0.143,
+      "mar": 0.0
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 18:22:18",
+    "extra": {
+      "reason": "eyes_closed (18) ear=0.18",
+      "ear": 0.185,
+      "mar": 0.0
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 18:21:59",
+    "extra": {
+      "reason": "eyes_closed (18) ear=0.17",
+      "ear": 0.17,
+      "mar": 0.0
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 18:21:48",
+    "extra": {
+      "reason": "eyes_closed (18) ear=0.18",
+      "ear": 0.184,
+      "mar": 0.031
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 18:21:26",
+    "extra": {
+      "reason": "eyes_closed (18) ear=0.22",
+      "ear": 0.221,
+      "mar": 0.643
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 18:20:22",
+    "extra": {
+      "reason": "eyes_closed (18) ear=0.20",
+      "ear": 0.201,
+      "mar": 0.0
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 18:20:01",
+    "extra": {
+      "reason": "eyes_closed (18) ear=0.13",
+      "ear": 0.133,
+      "mar": 0.0
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 18:19:31",
+    "extra": {
+      "reason": "head_nodding (30) pitch=37.97",
+      "ear": 0.217,
+      "mar": 0.042
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 18:03:00",
+    "extra": {
+      "reason": "eyes_closed (18) ear=0.23",
+      "ear": 0.226,
+      "mar": 0.103
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 18:02:52",
+    "extra": {
+      "reason": "eyes_closed (18) ear=0.22",
+      "ear": 0.217,
+      "mar": 0.033
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 18:02:46",
+    "extra": {
+      "reason": "eyes_closed (18) ear=0.14",
+      "ear": 0.135,
+      "mar": 0.029
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 18:02:41",
+    "extra": {
+      "reason": "head_nodding (30) pitch=28.49",
+      "ear": 0.25,
+      "mar": 0.037
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 18:02:36",
+    "extra": {
+      "reason": "head_nodding (30) pitch=36.57",
+      "ear": 0.237,
+      "mar": 0.0
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 18:02:13",
+    "extra": {
+      "reason": "yawning (15) mar=0.73",
+      "ear": 0.226,
+      "mar": 0.727
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 18:02:04",
+    "extra": {
+      "reason": "eyes_closed (18) ear=0.15",
+      "ear": 0.151,
+      "mar": 0.0
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 18:01:53",
+    "extra": {
+      "reason": "head_nodding (30) pitch=36.61",
+      "ear": 0.289,
+      "mar": 0.0
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 18:01:38",
+    "extra": {
+      "reason": "head_nodding (30) pitch=41.00",
+      "ear": 0.309,
+      "mar": 0.0
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 18:01:20",
+    "extra": {
+      "reason": "head_nodding (30) pitch=48.93",
+      "ear": 0.289,
+      "mar": 0.0
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 17:57:31",
+    "extra": {
+      "reason": "head_nodding (20) pitch=41.29",
+      "ear": 0.308,
+      "mar": 0.0
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 17:57:24",
+    "extra": {
+      "reason": "eyes_closed (18) ear=0.10",
+      "ear": 0.104,
+      "mar": 0.0
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 17:57:15",
+    "extra": {
+      "reason": "eyes_closed (18) ear=0.23",
+      "ear": 0.228,
+      "mar": 0.0
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 17:57:09",
+    "extra": {
+      "reason": "eyes_closed (18) ear=0.22",
+      "ear": 0.22,
+      "mar": 0.0
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 17:57:03",
+    "extra": {
+      "reason": "eyes_closed (18) ear=0.21",
+      "ear": 0.212,
+      "mar": 0.0
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 17:56:58",
+    "extra": {
+      "reason": "head_nodding (20) pitch=26.95",
+      "ear": 0.22,
+      "mar": 0.0
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 17:56:51",
+    "extra": {
+      "reason": "head_nodding (20) pitch=25.83",
+      "ear": 0.252,
+      "mar": 0.0
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 17:56:41",
+    "extra": {
+      "reason": "eyes_closed (18) ear=0.22",
+      "ear": 0.219,
+      "mar": 0.0
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 17:56:22",
+    "extra": {
+      "reason": "yawning (34) mar=0.69",
+      "ear": 0.181,
+      "mar": 0.69
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 17:56:17",
+    "extra": {
+      "reason": "eyes_closed (18) ear=0.21",
+      "ear": 0.214,
+      "mar": 0.0
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 17:51:52",
+    "extra": {
+      "reason": "eyes_closed (18) ear=0.14",
+      "ear": 0.138,
+      "mar": 0.0
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 17:51:45",
+    "extra": {
+      "reason": "yawning (15) mar=0.88",
+      "ear": 0.224,
+      "mar": 0.876
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 17:51:37",
+    "extra": {
+      "reason": "yawning (15) mar=0.70",
+      "ear": 0.231,
+      "mar": 0.705
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 17:51:31",
+    "extra": {
+      "reason": "eyes_closed (18) ear=0.21",
+      "ear": 0.21,
+      "mar": 0.418
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 16:51:41",
+    "extra": {
+      "reason": "head_nodding (114) pitch=46.64",
+      "ear": 0.299,
+      "mar": 0.273
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 16:51:36",
+    "extra": {
+      "reason": "head_nodding (111) pitch=33.04",
+      "ear": 0.089,
+      "mar": 0.077
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 16:51:31",
+    "extra": {
+      "reason": "head_nodding (20) pitch=25.31",
+      "ear": 0.238,
+      "mar": 0.177
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 16:51:25",
+    "extra": {
+      "reason": "head_nodding (20) pitch=28.94",
+      "ear": 0.282,
+      "mar": 0.118
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 16:51:14",
+    "extra": {
+      "reason": "head_nodding (20) pitch=64.43",
+      "ear": 0.293,
+      "mar": 0.116
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 16:51:08",
+    "extra": {
+      "reason": "head_nodding (20) pitch=52.42",
+      "ear": 0.307,
+      "mar": 0.236
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 16:51:00",
+    "extra": {
+      "reason": "eyes_closed (18) ear=0.21",
+      "ear": 0.212,
+      "mar": 0.0
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 16:50:50",
+    "extra": {
+      "reason": "eyes_closed (18) ear=0.17",
+      "ear": 0.167,
+      "mar": 0.0
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 16:50:44",
+    "extra": {
+      "reason": "eyes_closed (18) ear=0.22",
+      "ear": 0.223,
+      "mar": 0.0
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 16:50:37",
+    "extra": {
+      "reason": "eyes_closed (18) ear=0.20",
+      "ear": 0.204,
+      "mar": 0.559
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 16:50:29",
+    "extra": {
+      "reason": "eyes_closed (18) ear=0.22",
+      "ear": 0.217,
+      "mar": 0.028
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 16:46:18",
+    "extra": {
+      "reason": "eyes_closed (18) ear=0.16",
+      "ear": 0.161,
+      "mar": 0.088
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 16:46:11",
+    "extra": {
+      "reason": "eyes_closed (18) ear=0.13",
+      "ear": 0.132,
+      "mar": 0.0
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "Drowsy",
+    "timestamp": "2025-11-28 16:45:53",
+    "extra": {
+      "reason": "eyes_closed (18) ear=0.19",
+      "ear": 0.188,
+      "mar": 0.0
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "STRESSED",
+    "timestamp": "2025-11-28 16:22:19",
+    "extra": {
+      "reason": "Drowsiness Detected"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "STRESSED",
+    "timestamp": "2025-11-28 16:22:17",
+    "extra": {
+      "reason": "High Stress Detected"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "STRESSED",
+    "timestamp": "2025-11-28 16:22:15",
+    "extra": {
+      "reason": "High Stress Detected"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "DROWSY",
+    "timestamp": "2025-11-28 16:22:12",
+    "extra": {
+      "reason": "Drowsiness Detected"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "STRESSED",
+    "timestamp": "2025-11-28 16:22:02",
+    "extra": {
+      "reason": "High Stress Detected"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "STRESSED",
+    "timestamp": "2025-11-28 16:22:00",
+    "extra": {
+      "reason": "High Stress Detected"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "STRESSED",
+    "timestamp": "2025-11-28 16:21:58",
+    "extra": {
+      "reason": "High Stress Detected"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "DROWSY",
+    "timestamp": "2025-11-28 16:21:54",
+    "extra": {
+      "reason": "Drowsiness Detected"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "DROWSY",
+    "timestamp": "2025-11-28 16:21:49",
+    "extra": {
+      "reason": "Drowsiness Detected"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "DROWSY",
+    "timestamp": "2025-11-28 16:21:43",
+    "extra": {
+      "reason": "Drowsiness Detected"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "STRESSED",
+    "timestamp": "2025-11-28 16:21:36",
+    "extra": {
+      "reason": "High Stress Detected"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "STRESSED",
+    "timestamp": "2025-11-28 16:21:33",
+    "extra": {
+      "reason": "High Stress Detected"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "STRESSED",
+    "timestamp": "2025-11-28 16:21:31",
+    "extra": {
+      "reason": "High Stress Detected"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "DROWSY",
+    "timestamp": "2025-11-28 16:21:24",
+    "extra": {
+      "reason": "Drowsiness Detected"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "DROWSY",
+    "timestamp": "2025-11-28 16:21:18",
+    "extra": {
+      "reason": "Drowsiness Detected"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "DROWSY",
+    "timestamp": "2025-11-28 16:21:13",
+    "extra": {
+      "reason": "Drowsiness Detected"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "DROWSY",
+    "timestamp": "2025-11-28 16:21:08",
+    "extra": {
+      "reason": "Drowsiness Detected"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "DROWSY",
+    "timestamp": "2025-11-28 16:21:03",
+    "extra": {
+      "reason": "Drowsiness Detected"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "DROWSY",
+    "timestamp": "2025-11-28 16:20:57",
+    "extra": {
+      "reason": "Drowsiness Detected"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "DROWSY",
+    "timestamp": "2025-11-28 16:20:52",
+    "extra": {
+      "reason": "Drowsiness Detected"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "DROWSY",
+    "timestamp": "2025-11-28 16:20:46",
+    "extra": {
+      "reason": "Drowsiness Detected"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "DROWSY",
+    "timestamp": "2025-11-28 16:20:41",
+    "extra": {
+      "reason": "Drowsiness Detected"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "DROWSY",
+    "timestamp": "2025-11-28 16:20:36",
+    "extra": {
+      "reason": "Drowsiness Detected"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "DROWSY",
+    "timestamp": "2025-11-28 16:20:25",
+    "extra": {
+      "reason": "Drowsiness Detected"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "DROWSY",
+    "timestamp": "2025-11-28 16:20:19",
+    "extra": {
+      "reason": "Drowsiness Detected"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "STRESSED",
+    "timestamp": "2025-11-28 16:20:13",
+    "extra": {
+      "reason": "High Stress Detected"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "STRESSED",
+    "timestamp": "2025-11-28 16:20:11",
+    "extra": {
+      "reason": "High Stress Detected"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "STRESSED",
+    "timestamp": "2025-11-28 16:20:09",
+    "extra": {
+      "reason": "High Stress Detected"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "STRESSED",
+    "timestamp": "2025-11-28 16:20:07",
+    "extra": {
+      "reason": "High Stress Detected"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "STRESSED",
+    "timestamp": "2025-11-28 16:20:05",
+    "extra": {
+      "reason": "High Stress Detected"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "STRESSED",
+    "timestamp": "2025-11-28 16:20:03",
+    "extra": {
+      "reason": "High Stress Detected"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "DROWSY",
+    "timestamp": "2025-11-28 16:19:59",
+    "extra": {
+      "reason": "Drowsiness Detected"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "STRESSED",
+    "timestamp": "2025-11-28 16:19:56",
+    "extra": {
+      "reason": "High Stress Detected"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "STRESSED",
+    "timestamp": "2025-11-28 16:19:54",
+    "extra": {
+      "reason": "Drowsiness Detected"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "STRESSED",
+    "timestamp": "2025-11-28 16:19:51",
+    "extra": {
+      "reason": "High Stress Detected"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "STRESSED",
+    "timestamp": "2025-11-28 16:19:49",
+    "extra": {
+      "reason": "High Stress Detected"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "DROWSY",
+    "timestamp": "2025-11-28 16:19:47",
+    "extra": {
+      "reason": "Drowsiness Detected"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "DROWSY",
+    "timestamp": "2025-11-28 16:19:40",
+    "extra": {
+      "reason": "Drowsiness Detected"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "DROWSY",
+    "timestamp": "2025-11-28 16:19:35",
+    "extra": {
+      "reason": "Drowsiness Detected"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "DROWSY",
+    "timestamp": "2025-11-28 16:19:30",
+    "extra": {
+      "reason": "Drowsiness Detected"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "DROWSY",
+    "timestamp": "2025-11-28 16:19:25",
+    "extra": {
+      "reason": "Drowsiness Detected"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "DROWSY",
+    "timestamp": "2025-11-28 16:19:20",
+    "extra": {
+      "reason": "Drowsiness Detected"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "STRESSED",
+    "timestamp": "2025-11-28 16:19:17",
+    "extra": {
+      "reason": "High Stress Detected"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "STRESSED",
+    "timestamp": "2025-11-28 16:19:14",
+    "extra": {
+      "reason": "High Stress Detected"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "STRESSED",
+    "timestamp": "2025-11-28 16:19:12",
+    "extra": {
+      "reason": "High Stress Detected"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "STRESSED",
+    "timestamp": "2025-11-28 16:19:10",
+    "extra": {
+      "reason": "High Stress Detected"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "STRESSED",
+    "timestamp": "2025-11-28 16:19:08",
+    "extra": {
+      "reason": "High Stress Detected"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "STRESSED",
+    "timestamp": "2025-11-28 16:19:06",
+    "extra": {
+      "reason": "High Stress Detected"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "DROWSY",
+    "timestamp": "2025-11-28 16:19:03",
+    "extra": {
+      "reason": "Drowsiness Detected"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "DROWSY",
+    "timestamp": "2025-11-28 16:18:58",
+    "extra": {
+      "reason": "Drowsiness Detected"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "DROWSY",
+    "timestamp": "2025-11-28 16:18:53",
+    "extra": {
+      "reason": "Drowsiness Detected"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "DROWSY",
+    "timestamp": "2025-11-28 16:18:48",
+    "extra": {
+      "reason": "Drowsiness Detected"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "DROWSY",
+    "timestamp": "2025-11-28 16:18:43",
+    "extra": {
+      "reason": "Drowsiness Detected"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "DROWSY",
+    "timestamp": "2025-11-28 16:18:38",
+    "extra": {
+      "reason": "Drowsiness Detected"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "DROWSY",
+    "timestamp": "2025-11-28 16:18:28",
+    "extra": {
+      "reason": "Drowsiness Detected"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "DROWSY",
+    "timestamp": "2025-11-28 16:18:23",
+    "extra": {
+      "reason": "Drowsiness Detected"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "DROWSY",
+    "timestamp": "2025-11-28 16:18:01",
+    "extra": {
+      "reason": "Drowsiness Detected"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "STRESSED",
+    "timestamp": "2025-11-28 16:17:52",
+    "extra": {
+      "reason": "High Stress Detected"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "STRESSED",
+    "timestamp": "2025-11-28 16:17:50",
+    "extra": {
+      "reason": "High Stress Detected"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "STRESSED",
+    "timestamp": "2025-11-28 16:17:48",
+    "extra": {
+      "reason": "High Stress Detected"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "STRESSED",
+    "timestamp": "2025-11-28 16:17:46",
+    "extra": {
+      "reason": "High Stress Detected"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "STRESSED",
+    "timestamp": "2025-11-28 16:17:44",
+    "extra": {
+      "reason": "High Stress Detected"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "STRESSED",
+    "timestamp": "2025-11-28 16:17:41",
+    "extra": {
+      "reason": "High Stress Detected"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "DROWSY",
+    "timestamp": "2025-11-28 16:17:33",
+    "extra": {
+      "reason": "Drowsiness Detected"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "DROWSY",
+    "timestamp": "2025-11-28 16:17:24",
+    "extra": {
+      "reason": "Drowsiness Detected"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "STRESSED",
+    "timestamp": "2025-11-28 16:17:19",
+    "extra": {
+      "reason": "High Stress Detected"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "STRESSED",
+    "timestamp": "2025-11-28 16:17:17",
+    "extra": {
+      "reason": "High Stress Detected"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "STRESSED",
+    "timestamp": "2025-11-28 16:17:15",
+    "extra": {
+      "reason": "High Stress Detected"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "DROWSY",
+    "timestamp": "2025-11-28 16:17:12",
+    "extra": {
+      "reason": "Drowsiness Detected"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "DROWSY",
+    "timestamp": "2025-11-28 16:17:07",
+    "extra": {
+      "reason": "Drowsiness Detected"
+    }
+  },
+  {
+    "driver": "Ganesh",
+    "status": "DROWSY",
+    "timestamp": "2025-11-28 16:16:47",
+    "extra": {
+      "reason": "Drowsiness Detected"
+    }
+  }
+]

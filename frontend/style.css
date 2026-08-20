@@ -1,0 +1,128 @@
+/* ------------------------------
+   GLOBAL STYLING
+-------------------------------*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+body {
+    background: #f2f4f8;
+    color: #222;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px 20px;
+}
+
+/* ------------------------------
+   HEADER
+-------------------------------*/
+header {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+header h1 {
+    font-size: 36px;
+    color: #1a73e8;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+header p {
+    font-size: 18px;
+    color: #555;
+}
+
+/* ------------------------------
+   MAIN CONTAINER
+-------------------------------*/
+.container {
+    width: 90%;
+    max-width: 800px;
+    background: #fff;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+/* ------------------------------
+   BUTTONS
+-------------------------------*/
+button, .btn {
+    display: inline-block;
+    padding: 12px 22px;
+    border: none;
+    background: #1a73e8;
+    color: #fff;
+    font-size: 16px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.3s ease-in-out;
+    text-decoration: none;
+}
+
+button:hover, .btn:hover {
+    background: #0c58c4;
+}
+
+/* ------------------------------
+   STATUS BADGES
+-------------------------------*/
+.status {
+    display: inline-block;
+    padding: 6px 12px;
+    border-radius: 20px;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.status.active {
+    background: #d4f8d4;
+    color: #1b8c1b;
+}
+
+.status.drowsy {
+    background: #ffd7d7;
+    color: #d60000;
+}
+
+/* ------------------------------
+   ALERT TABLE
+-------------------------------*/
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th {
+    background: #1a73e8;
+    color: white;
+    padding: 12px;
+    font-size: 16px;
+    letter-spacing: 1px;
+}
+
+td {
+    background: #fafafa;
+    padding: 12px;
+    border-bottom: 1px solid #ddd;
+    font-size: 15px;
+}
+
+tr:hover td {
+    background: #eef6ff;
+}
+
+/* ------------------------------
+   FOOTER
+-------------------------------*/
+footer {
+    margin-top: 40px;
+    font-size: 14px;
+    color: #777;
+}

@@ -1,0 +1,7 @@
+names:
+  0: cigarette
+  1: phone
+  2: sunglasses
+path: C:\Users\lenovo\OneDrive\Desktop\driver AI (4)\driver AI\datasets
+train: images/train
+val: images/val
